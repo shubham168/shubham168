@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **react**
 
-- 📫 How to reach me 📬(jadhavshubham168@gmail.com)
+- [📫](jadhavshubham168@gmail.com) How to reach me [📬mail_here jadhavshubham168@gmail.com](jadhavshubham168@gmail.com)
 
 - 📄 Know about my experiences [Resume__😎](https://drive.google.com/file/d/1sGDh5zA9UGwDJ4SvxO9xWVK1MlUlQSjo/view?usp=sharing)
 
