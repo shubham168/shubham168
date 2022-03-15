@@ -11,7 +11,7 @@
 
 - 📄 Know about my experiences [Resume__😎](https://drive.google.com/file/d/1sGDh5zA9UGwDJ4SvxO9xWVK1MlUlQSjo/view?usp=sharing)
 
-- 🤩 Check out my [Portfolio](https://shubhamjadhav.netlify.app/)
+- 🤩 Check out my <a href="https://shubhamjadhav.netlify.app/" target="_blank">Portfolio</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
